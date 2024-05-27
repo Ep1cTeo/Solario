@@ -96,9 +96,7 @@ body{
 .video-visitanos{
     height: 810px;
     width: 456px;
-    margin-right: 50px;
-    position: relative;
-    
+    margin-right: 50px;    
 }
 .texto-inicio1{
     padding: 0% 40px;
@@ -120,7 +118,6 @@ body{
 .vid-disfruta{
     height: 810px;
     width: 456px;
-    position: relative;
 }
 footer{
     background-color: rgb(247, 248, 208);

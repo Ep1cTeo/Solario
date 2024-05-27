@@ -97,6 +97,7 @@ body{
     height: 810px;
     width: 456px;
     margin-right: 50px;
+    position: relative;
     
 }
 .texto-inicio1{
@@ -119,6 +120,7 @@ body{
 .vid-disfruta{
     height: 810px;
     width: 456px;
+    position: relative;
 }
 footer{
     background-color: rgb(247, 248, 208);

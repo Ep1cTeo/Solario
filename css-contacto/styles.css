@@ -1,0 +1,29 @@
+*{
+    /* Configuración global del CSS - Formato */
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+    padding: 90px 20px 0px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    padding-bottom: 3%;
+    min-height: 100vh;
+}
+.cont-contact{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.wpp{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.instagram{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
